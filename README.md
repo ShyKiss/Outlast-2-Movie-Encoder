@@ -2,7 +2,7 @@
 Allows you to convert an array of `jpeg` pictures to `.ol2` video for [**Outlast 2**](https://store.steampowered.com/app/414700/Outlast_2) game
 
 ## Usage
-
+Install [GraphicsMagick 1.3.32](https://sourceforge.net/projects/graphicsmagick/files/graphicsmagick-binaries/1.3.32/GraphicsMagick-1.3.32-Q16-win64-dll.exe/download)
 `OutlastMovieEncoder.exe [-q <JpegQuality>] [-f <FrameRate>] [-s <FrameSkip>] [-n <NumFrames>] <InputImage> <OutputMovie>`
 
 ```
@@ -15,6 +15,7 @@ Allows you to convert an array of `jpeg` pictures to `.ol2` video for [**Outlast
 
 ## Compile
 
+Install Install [GraphicsMagick 1.3.32](https://sourceforge.net/projects/graphicsmagick/files/graphicsmagick-binaries/1.3.32/GraphicsMagick-1.3.32-Q16-win64-dll.exe/download)
 Install `VS120COMNTOOLS` and clone the repository
 
 ## Licenses
