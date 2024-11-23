@@ -15,7 +15,7 @@ Install [GraphicsMagick 1.3.32](https://sourceforge.net/projects/graphicsmagick/
 
 ## Compile
 
-Install Install [GraphicsMagick 1.3.32](https://sourceforge.net/projects/graphicsmagick/files/graphicsmagick-binaries/1.3.32/GraphicsMagick-1.3.32-Q16-win64-dll.exe/download) <p>
+Install [GraphicsMagick 1.3.32](https://sourceforge.net/projects/graphicsmagick/files/graphicsmagick-binaries/1.3.32/GraphicsMagick-1.3.32-Q16-win64-dll.exe/download) <p>
 Install `VS120COMNTOOLS` and clone the repository
 
 ## Licenses
